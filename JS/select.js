@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
   function checkLoginStatus() {
     if (!isLoggedIn) {
       // Redirecionar para a página de login
-      window.location.href = "file:///S:/SUPERVISORES/05%20DANRLEI%20SOUZA/Base%20de%20Dados%20SIPEC-DECIPEX/index.html";
+      window.location.href = "index.html";
     }
   }
 
